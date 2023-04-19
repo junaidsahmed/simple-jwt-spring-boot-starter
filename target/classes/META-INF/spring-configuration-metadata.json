@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "jwt",
+      "type": "com.service.config.JwtUtil",
+      "sourceType": "com.service.config.JwtUtil"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jwt.secret",
+      "type": "java.lang.String",
+      "sourceType": "com.service.config.JwtUtil"
+    },
+    {
+      "name": "jwt.token-prefix",
+      "type": "java.lang.String",
+      "sourceType": "com.service.config.JwtUtil"
+    }
+  ],
+  "hints": []
+}

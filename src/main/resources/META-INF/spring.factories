@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.service.config.JwtRequestFilter,\
+com.service.config.JwtWebConfigurer,\
+com.service.config.SecurityConfig,\
+com.service.config.JwtUserDetailService
